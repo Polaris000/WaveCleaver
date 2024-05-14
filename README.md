@@ -50,3 +50,7 @@ The experiments above were run via notebooks. Simply follow the general setup st
 ### Files
 - In `/data` we have all the relevant files for the custom test dataset, our model inferencing results as .csv files, and the .csv files for all of our loss and accuracy curves
 - In the `/notebooks` path we have the notebooks for all of our experimentation.
+- Our from scratch model can be found in `notebooks/spectogram_autoencoder.ipynb` and `notebooks/autoencoder.ipynb`
+- Our non-ml methods can be found in `notebooks/Python_Noise_Reduction_Methods.ipynb`
+- Our experiments for inferencing can be found in `notebooks/pretained_sound_separation.ipynb` and `notebooks/sepformer.ipynb`
+- Our attempt at transfer learning on demucs can be found in `notebook/finetuning-demucs.ipynb`

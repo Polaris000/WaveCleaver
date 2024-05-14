@@ -1,0 +1,8 @@
+torch==2.3.0
+torchsummary==1.5.1
+tqdm==4.66.1
+numpy==1.24.3
+torchaudio==2.3.0
+librosa==0.10.2
+torchmetrics==1.4.0
+pytube==15.0.0
